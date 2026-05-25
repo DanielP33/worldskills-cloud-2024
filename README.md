@@ -15,7 +15,7 @@ The architecture was designed, configured, and validated entirely under competit
 
 ## Architecture
 
-![Network Topology](diagrams/topology.png)
+![Network Topology](diagrams/rework.jpg)
 
 ### Three VPCs across two AWS regions
 
