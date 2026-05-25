@@ -178,4 +178,4 @@ The competition is run by **IEFP** (Instituto do Emprego e Formação Profission
 
 ## Skills Demonstrated
 
-`AWS VPC` `EC2 Auto Scaling` `Network Load Balancer` `EFS` `RDS MySQL` `S3 Event Notifications` `Route 53` `VPC Peering` `NAT` `Certificate Authority` `IIS` `Apache` `Nginx` `vsftpd` `CloudWatch` `IAM` `Windows Server 2022` `Ubuntu` `Amazon Linux 2023`
+`AWS VPC` `EC2 Auto Scaling` `Network Load Balancer` `EFS` `RDS MySQL` `S3 Event Notifications` `Route 53` `VPC Peering` `Transit Gateway` `NAT` `Certificate Authority` `IIS` `Apache` `Nginx` `vsftpd` `CloudWatch` `IAM` `Windows Server 2022` `Ubuntu` `Amazon Linux 2023`
